@@ -6,8 +6,7 @@ Meu site fala sobre todas as energias renovaveis que existem no mundo,
 explicando como cada uma delas funciona, como cada uma delas é praticada e
 para o que usamos no mundo e usariamos no nosso dia a dia.
 
-Se quiser saber mais sobre, clique nesse link abaixo.
-
+Se quiser saber mais sobre, clique nesse link abaixo.<br>
 https://martigab013.github.io/energias-renovaveis-2/
 
 Meu site tem seis arquivos HTML
